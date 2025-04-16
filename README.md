@@ -6,7 +6,8 @@ A python script to F some sites.
 Paste these commands in termux/Linux.
 ```
 apt update && apt upgrade -y
-apt install python nmap git -y
+apt install python nmap figlet ruby git -y
+gem install lolcat 
 git clone https://github.com/Errorking404/ErrorDDOS.git
 cd ErrorDDOS
 chmod +x Ddos.py
