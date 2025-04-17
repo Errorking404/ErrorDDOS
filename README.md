@@ -18,13 +18,13 @@ python Ddos.py
  This script needs a port number. To find port you need to use nmap. 
 
 like this 
+
 ```
 nmap example.com
-
 ```
 Replace example.com with your target site.
 
 # Author:
-          Error
+       Error
 
 
